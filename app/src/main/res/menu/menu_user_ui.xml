@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_doctor"
+        android:icon="@mipmap/doctor"
+        android:title="找医生" />
+    <item
+        android:id="@+id/item_guahao"
+        android:icon="@mipmap/guahao"
+        android:title="挂号" />
+
+    <item
+        android:id="@+id/item_near"
+        android:icon="@mipmap/near"
+        android:title="附近" />
+
+    <item
+        android:id="@+id/item_renti"
+        android:icon="@mipmap/renti"
+        android:title="经络/穴位" />
+
+</menu>
